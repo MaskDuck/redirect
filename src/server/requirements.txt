@@ -1,0 +1,6 @@
+fastapi
+pymongo
+dnspython
+orjson
+ujson
+typing_extensions
